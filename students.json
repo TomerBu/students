@@ -1,0 +1,23 @@
+[
+  {
+    "id": "s1",
+    "firstName": "Adi",
+    "lastName": "Cohen",
+    "email": "Adi@gmail.com",
+    "image": "https://spng.subpng.com/20191109/vir/transparent-bin-icon-delete-icon-empty-icon-5dc7032cac0724.6832684215733235647046.jpg"
+  },
+  {
+    "id": "s2",
+    "firstName": "Dafna",
+    "lastName": "Peretz",
+    "email": "Dafna@gmail.com",
+    "image": "https://spng.subpng.com/20191109/vir/transparent-bin-icon-delete-icon-empty-icon-5dc7032cac0724.6832684215733235647046.jpg"
+  },
+  {
+    "id": "s3",
+    "firstName": "Tzahi",
+    "lastName": "Doe",
+    "email": "Tzahi@gmail.com",
+    "image": "https://spng.subpng.com/20191109/vir/transparent-bin-icon-delete-icon-empty-icon-5dc7032cac0724.6832684215733235647046.jpg"
+  }
+]
